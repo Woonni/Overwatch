@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto CSS - Overwatch </h1>
+<h1 align="center"> Projeto HTML - Overwatch </h1>
 
 <p align="center">
 Projeto do curso "Desenvolvimento Web completo" - Udemy
@@ -8,7 +8,7 @@ Projeto do curso "Desenvolvimento Web completo" - Udemy
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML 
 
 ## 💗 Curso
 
